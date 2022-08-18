@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Betelhem Yemane @ManaIsrael
 - 👀 I’m interested in Web design and development
-- 🌱 I’m currently learning SASS and React
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me betelhemyemanezoom@gmail.com
 
